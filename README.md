@@ -1,7 +1,7 @@
 
 # Sorting Algorithms Study
 
-This project cover sorting algorithms and its complexities. Just for fun!
+This project covers sorting algorithms and its complexities. Just for fun!
 
 
 
@@ -10,7 +10,7 @@ This project cover sorting algorithms and its complexities. Just for fun!
 
 ## 🚀 About Me
 Computer Science student.
-Love creating
+Love creating stuff.
 
 
 ## Autores
