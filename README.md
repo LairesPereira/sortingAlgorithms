@@ -1,7 +1,7 @@
 
 # Sorting Algorithms Study
 
-This project cover sorting algorithms and its complexities. Just for fun!
+This project covers sorting algorithms and its complexities. Just for fun!
 
 
 
