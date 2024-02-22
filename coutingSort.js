@@ -1,4 +1,4 @@
-let randomArray = Array.from({ length: 200}, () => Math.floor(Math.random() * 200)) 
+let randomArray = Array.from({ length: 200 }, () => Math.floor(Math.random() * 200)) 
 let count = new Array(200).fill(0) // use counter for storing how many times each number repeats itself
 let sortedList = []
 
