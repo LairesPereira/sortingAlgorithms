@@ -3,6 +3,9 @@ let count = new Array(200).fill(0) // use counter for storing how many times eac
 let sortedList = []
 
 function countingSort(inputList, count) {
+    console.log('Random: ', randomArray)
+    console.time('Execution Time')
+
     inputList.forEach(element => {
         count[element] += 1; // every time an element is repeated we add one at respective position 
     });
@@ -18,9 +21,9 @@ function countingSort(inputList, count) {
         }
         
     }
+
+    console.timeEnd('Execution Time')
+    console.log('Sorted: ', randomArray)
 }
 
 countingSort(randomArray, count)
-console.log("Input: ", count)
-console.log("Counter:" ,count)
-console.log("Sorted", sortedList)
